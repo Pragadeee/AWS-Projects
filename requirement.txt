@@ -1,0 +1,12 @@
+AWS services that needed:
+Amazon EC2
+Amazon VPC
+VPC Peering
+Internet Gateway
+Amazon CloudWatch
+VPC Flow Logs
+Amazon EC2 Instance Connect
+IAM (Identity and Access Management)
+Route Tables
+Network ACLs
+Security Groups
